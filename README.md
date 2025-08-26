@@ -12,3 +12,5 @@
 - Este es mi primer contacto con github
 - Tengo una gata que se llama Zelda
 - Tengo dos perros que se llaman Ciro y Nala
+
+![Foto Zelda](./Zelda.jpeg)
